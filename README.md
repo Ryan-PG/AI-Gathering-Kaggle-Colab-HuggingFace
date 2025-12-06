@@ -1,4 +1,4 @@
-# Data Cleaning & Generation — Epoch Club
+# Kaggle, Huggingface Spaces and Google Colab — Epoch Club 17
 
 This repository contains all the materials from our **Epoch Club** gathering session on **Kaggle, Google Colab and HuggingFace tutorial and Text/Image Analysis with Python in HF Spaces**, held on **November 27, 2025**. It includes code, supporting assets, and resources used during the session.
 
